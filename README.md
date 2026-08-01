@@ -6,6 +6,7 @@ A UI/UX design project — a Figma file and page previews — created during my 
 
 - **Organization:** Codtech IT Solutions Private Limited
 - **Role:** UI/UX Design Intern
+- **Intern ID:** CITS7653
 - **Duration:** 4 Weeks (24 July 2026 – 21 August 2026)
 
 ## About
@@ -15,19 +16,19 @@ This repository holds the Figma source file (`Research_Portfolio.fig`) along wit
 ## Design Previews
 
 ### Homepage
-![Homepage](designs/Homepage.png)
+![Homepage](design/Homepage.png)
 
 ### Project Deep-Dive
-![Project Deep Dive](designs/Project_Deep_Dive.png)
+![Project Deep Dive](design/Project_Deep_Dive.png)
 
 ### Publications Repository
-![Publications Repository](designs/Publications_Repository.png)
+![Publications Repository](design/Publications_Repository.png)
 
 ### About / Contact
-![About and Contact](designs/About_Contact.png)
+![About and Contact](design/About_Contact.png)
 
 ### Let's Connect
-![Lets Connect](designs/Lets_Connect.png)
+![Lets Connect](design/Lets_Connect.png)
 
 ## Files
 

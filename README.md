@@ -16,19 +16,19 @@ This repository holds the Figma source file (`Research_Portfolio.fig`) along wit
 ## Design Previews
 
 ### Homepage
-![Homepage](design/Homepage.png)
+![Homepage](designs/Homepage.png)
 
 ### Project Deep-Dive
-![Project Deep Dive](design/Project_Deep_Dive.png)
+![Project Deep Dive](designs/Project_Deep_Dive.png)
 
 ### Publications Repository
-![Publications Repository](design/Publications_Repository.png)
+![Publications Repository](designs/Publications_Repository.png)
 
 ### About / Contact
-![About and Contact](design/About_Contact.png)
+![About and Contact](designs/About_Contact.png)
 
 ### Let's Connect
-![Lets Connect](design/Lets_Connect.png)
+![Lets Connect](designs/Lets_Connect.png)
 
 ## Files
 

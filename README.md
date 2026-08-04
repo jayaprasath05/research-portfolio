@@ -7,7 +7,6 @@ A UI/UX design project — a Figma file and page previews — created during my 
 - **Organization:** Codtech IT Solutions Private Limited
 - **Role:** UI/UX Design Intern
 - **Intern ID:** CITS7653
-- **Duration:** 4 Weeks (24 July 2026 – 21 August 2026)
 
 ## About
 
